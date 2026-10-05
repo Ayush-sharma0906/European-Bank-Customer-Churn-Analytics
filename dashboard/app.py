@@ -786,5 +786,3 @@ st.dataframe(
     hide_index=True
 )
 
-
-print("run sucessfully")
